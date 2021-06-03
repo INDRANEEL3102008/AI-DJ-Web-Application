@@ -1,3 +1,3 @@
 # AI-DJ-Web-Application
-Copyright Information
+Copyright Information - 
 Developed by Certified Coder Indraneel Mandal
